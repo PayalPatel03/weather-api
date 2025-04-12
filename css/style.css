@@ -70,7 +70,7 @@ body {
 }
 
 #description::before {
-    content: "🌦  ";
+    content: "🌦";
 }
 
 #temp::before {

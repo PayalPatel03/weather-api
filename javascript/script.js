@@ -22,6 +22,6 @@ const displayWeather = () => {
         temp.innerText = `Temperature: ${data.main.temp}°C`;
     })
     .catch(error => {
-        console.log('Error fetching weather:', error);
+        console.log(error);
     });
 }
