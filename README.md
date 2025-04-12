@@ -16,30 +16,6 @@ Background image and hover effects
 
 Mobile-friendly layout
 
-=> HTML (index.html)
-Key Components:
-Dropdown Menu (<select id="cities">)
-A list of cities populated dynamically via JavaScript.
-
-Weather Display Box (<div id="weather">)
-Shows current weather description and temperature.
-
-Header (<h1 id="header">)
-Animated page title.
-
-=>  CSS (style.css)
-Key Styling Highlights:
-Full-screen background with image and backdrop-filter blur on weather box.
-
-Animations:
-
-glow animation for the header.
-
-fadeIn for smooth content entrance.
-
-Responsive design for mobile view using media queries.
-
-Hover effects on weather box and dropdown.
 
 => API Used
 OpenWeatherMap Current Weather Data
